@@ -11,3 +11,9 @@ After completing this lab you will be able to:
 *   Close the database connection
 
 SQLite is a software library that implements a self-contained, serverless, zero-configuration, transactional SQL database engine. SQLite is the most widely deployed SQL database engine in the world.
+
+## Objectives
+
+After completing this lab you will be able to:
+
+*   Perform simplified database access using SQL "magic"
